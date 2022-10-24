@@ -83,7 +83,6 @@ author:
   name             : "Zhuozhu Jian"
   avatar           : "jianzhuozhu.jpg"
   bio              : "Personal Site"
-  location         : "Tsinghua Shenzhen International Graduate School, University Town of Shenzhen, Nanshan District, Shenzhen 518055 P.R. China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Bd5P-vEAAAAJ&hl=zh-CN"
@@ -96,7 +95,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jianzhuozhuTHU"
+  github           : "jianzhuozhuTHU"
+  location         : "Tsinghua Shenzhen International Graduate School, University Town of Shenzhen, Nanshan District, Shenzhen 518055 P.R. China"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
